@@ -1,1 +1,1 @@
-# ANSHUMAN1PANDEY-CodeClauseInternship_Real-Time-Language-Translation-Tool
+CodeClauseInternship_Real-Time-Language-Translation-Tool
